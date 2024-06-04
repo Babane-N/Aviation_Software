@@ -1,4 +1,4 @@
 # Aviation_Software
- Demostrating Commnand, observer and singleton pattern. 
+ Demostrating Singleton, Observer and Command pattern . 
  
  NB: Still under construction
