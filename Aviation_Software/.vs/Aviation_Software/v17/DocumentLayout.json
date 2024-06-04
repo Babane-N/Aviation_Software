@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\alarmobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\alarmobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\subjectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\subjectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\radioaltimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\radioaltimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\engineobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\engineobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\obsrvr\\autopilotobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\obsrvr\\autopilotobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\aviation_software\\instrumentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\instrumentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\landinggearoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\landinggearoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\landinggearon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\landinggearon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\turnonautopilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\turnonautopilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\turnoffautopilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\turnoffautopilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\stopengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\stopengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\startengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\startengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\aviation_software\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|d:\\new folder\\git-company\\aviation_software\\aviation_software\\aviation_software\\singleton\\aircontrollersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\singleton\\aircontrollersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\aviation_software\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\PowerOffCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\Amplifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\UniversalRemote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\aviation_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CAF0FC-6664-4AEB-9B48-C8250BE8881F}|Aviation_Software\\Aviation_Software.csproj|solutionrelative:aviation_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectBase.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\SubjectBase.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\SubjectBase.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\SubjectBase.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\SubjectBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:29:17.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RadioAltimeter.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\RadioAltimeter.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\RadioAltimeter.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\RadioAltimeter.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\RadioAltimeter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:29:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\IObserver.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\IObserver.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\IObserver.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:28:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EngineObserver.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\EngineObserver.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\EngineObserver.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\EngineObserver.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\EngineObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:28:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutopilotObserver.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\AutopilotObserver.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\AutopilotObserver.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\AutopilotObserver.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\AutopilotObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:28:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlarmObserver.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\AlarmObserver.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Obsrvr\\AlarmObserver.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Obsrvr\\AlarmObserver.cs",
+              "RelativeToolTip": "Aviation_Software\\Obsrvr\\AlarmObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:28:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TurnOnAutopilot.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\TurnOnAutopilot.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\TurnOnAutopilot.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\TurnOnAutopilot.cs",
+              "RelativeToolTip": "Aviation_Software\\TurnOnAutopilot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:24:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StopEngine.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\StopEngine.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\StopEngine.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\StopEngine.cs",
+              "RelativeToolTip": "Aviation_Software\\StopEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:24:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartEngine.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\StartEngine.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\StartEngine.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\StartEngine.cs",
+              "RelativeToolTip": "Aviation_Software\\StartEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:24:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LandingGearON.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\LandingGearON.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\LandingGearON.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\LandingGearON.cs",
+              "RelativeToolTip": "Aviation_Software\\LandingGearON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:24:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LandingGearOFF.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\LandingGearOFF.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\LandingGearOFF.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\LandingGearOFF.cs",
+              "RelativeToolTip": "Aviation_Software\\LandingGearOFF.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:24:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AirControllerSingleton.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Singleton\\AirControllerSingleton.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Singleton\\AirControllerSingleton.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Singleton\\AirControllerSingleton.cs",
+              "RelativeToolTip": "Aviation_Software\\Singleton\\AirControllerSingleton.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:18:04.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PowerOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\PowerOffCommand.cs",
+              "ToolTip": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\PowerOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:46:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Amplifier.cs",
+              "DocumentMoniker": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\Amplifier.cs",
+              "ToolTip": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\Amplifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:44:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UniversalRemote.cs",
+              "DocumentMoniker": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\UniversalRemote.cs",
+              "ToolTip": "C:\\Users\\XAHUMBA\\Documents\\Acadamic\\Project\\Aviation_Software\\Aviation_Software\\NewFolder1\\UniversalRemote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:33:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstrumentPanel.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\InstrumentPanel.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\InstrumentPanel.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\InstrumentPanel.cs",
+              "RelativeToolTip": "Aviation_Software\\InstrumentPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:20:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Software.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Software.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Software.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Software.cs",
+              "RelativeToolTip": "Aviation_Software\\Software.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:16:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TurnOffAutopilot.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\TurnOffAutopilot.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\TurnOffAutopilot.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\TurnOffAutopilot.cs",
+              "RelativeToolTip": "Aviation_Software\\TurnOffAutopilot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:04:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\ICommand.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\ICommand.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\ICommand.cs",
+              "RelativeToolTip": "Aviation_Software\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:56:02.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Program.cs",
+              "RelativeDocumentMoniker": "Aviation_Software\\Program.cs",
+              "ToolTip": "D:\\New folder\\Git-Company\\Aviation_Software\\Aviation_Software\\Aviation_Software\\Program.cs",
+              "RelativeToolTip": "Aviation_Software\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:47:53.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
