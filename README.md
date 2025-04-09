@@ -13,7 +13,7 @@ The pilot can perform the following actions:
 
 🛬 Deploy or retract Landing Gears
 
-These commands are encapsulated using the Command Pattern, providing a clean way to execute and manage pilot operations.
+#### These commands are encapsulated using the Command Pattern, providing a clean way to execute and manage pilot operations.
 
 📡 Altitude Monitoring & Automatic Actions
 📉 At lower altitudes:
@@ -32,9 +32,9 @@ Engine power is decreased
 
 Alarm notifies the pilots
 
-The system monitors altitude continuously and uses the Observer Pattern to notify dependent components like Engine, Autopilot, and Alarm.
+#### The system monitors altitude continuously and uses the Observer Pattern to notify dependent components like Engine, Autopilot, and Alarm.
 
-#### 👥 Design Patterns Used
+### 👥 Design Patterns Used
 🧭 Command Pattern
 Used for managing pilot commands such as engine start, autopilot toggling, and landing gear control.
 
