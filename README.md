@@ -56,7 +56,8 @@ Alarm
 🔐 Singleton Pattern
 Ensures that only one instance of the Air Traffic Controller exists for communication with pilots, maintaining security and global access.
 
-UML Diagram
+### UML Diagram
+
 ![Picture13](https://github.com/user-attachments/assets/0cf008d6-5251-4cb9-bee4-bdb47f902c98)
 ![Picture12](https://github.com/user-attachments/assets/c4470836-782e-44a8-8e4f-6fdef1c383b0)
 
